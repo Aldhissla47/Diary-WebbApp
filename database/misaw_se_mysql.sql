@@ -45,8 +45,7 @@ INSERT INTO `db_project` (`client`, `number`, `name`, `program`, `jobsite`, `cre
 ('micke@gmail.com', '01', 'SBUPP', 'Upprustning Saltsjöbanan', 'Sickla', '2018-04-03'),
 ('micke@gmail.com', '02', 'SB 24', 'Upprustning Saltsjöbanan', 'Sickla', '2018-04-06'),
 ('micke@gmail.com', '03', 'SBkap', 'Upprustning Saltsjöbanan', 'Sickla', '2018-04-12'),
-('micke@gmail.com', '123456', 'Test', 'SB', 'Stockholm', '2017-10-27'),
-('simon@gmail.com', '246', 'Kuken', 'Röv', 'Moskva', '2018-05-19');
+('micke@gmail.com', '123456', 'Test', 'SB', 'Stockholm', '2017-10-27');
 
 -- --------------------------------------------------------
 
