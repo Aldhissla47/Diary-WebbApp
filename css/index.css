@@ -1,0 +1,178 @@
+.red p {
+	color: red;
+}
+
+.index_row {
+	width: 100%;
+}
+
+#diaries {
+	margin-bottom: 30px;
+}
+
+#tasks {
+
+}
+
+.index_column_header {
+	height: 42px;
+	width: 100%;
+}
+
+.index_column_header h2 {
+	float: left;
+	margin: 0;
+	padding: 10px;
+}
+
+.index_column_content {
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.inbox_row {
+	height: 40px;
+	width: 100%;
+	font-size: 14px;
+}
+
+.inbox_row p {
+	margin: 12px;
+}
+
+.inbox_row_odd {
+	background-color: gray;
+}
+
+.diary_column {
+	float: left;
+	width: 11.8%;
+	height: 100%;
+	word-wrap: break-word;
+	overflow: hidden;
+}
+
+.diary_small_column {
+	width: 6%;
+	min-width: 112px;
+	text-align: center;
+}
+
+.diary_number_column {
+	width: 3%;
+	min-width: 40px;
+}
+
+.diary_tools_column {
+	float: right;
+	width: 86px;
+}
+
+.diary_tools_form {
+	float: left;
+	height: 100%;
+	text-align: center;
+	line-height: 100%;
+	vertical-align: middle;
+}
+
+.task_row {
+	height: 40px;
+	width: 100%;
+	min-width: 1100px;
+	font-size: 14px;
+}
+
+.task_row p {
+	margin: 12px;
+}
+
+.task_row_odd {
+	background-color: gray;
+}
+
+.task_column {
+	float: left;
+	height: 100%;
+	width: 9%;
+	word-wrap: break-word;
+	overflow: hidden;
+	margin-right: 4px;
+}
+
+.task_small_column {
+	width: 6%;
+	min-width: 86px;
+	text-align: center;
+}
+
+.task_number_column {
+	width: 3%;
+	min-width: 40px;
+	text-align: center;
+}
+
+.task_date_column {
+	width: 8%;
+	text-align: center;
+}
+
+.task_large_column {
+	width: 14%;
+	text-align: center;
+}
+
+.task_private_column {
+	text-align: center;
+	width: 60px;
+}
+
+.task_row_box {
+	width: 95%;
+	height: 16px;
+	margin-top: 10px;
+}
+
+.task_row_box_large {
+	width: 97.5%;
+	height: 16px;
+	margin-top: 10px;
+}
+
+.task_row_checkbox {
+	margin-top: 14px;
+}
+
+.task_row_dropbox {
+	height: 22px;
+}
+
+.task_row_datebox {
+	width: 94.5%;
+	height: 18px;
+}
+
+#inbox_content {
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+#form_content {
+    width: 100%;
+}
+
+#task_rows {
+    max-height: 320px;
+	min-width: 1100px;
+    overflow-y: auto;
+}
+
+#form_send_button_div {
+	width: 100%;
+	overflow: hidden;
+	margin-top: 20px;
+}

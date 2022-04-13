@@ -1,0 +1,255 @@
+#form {
+	
+}
+
+#form h5 {
+	display: inline;
+}
+
+#form h3 {
+	margin: 0;
+}
+
+#form p {
+	color: red;
+	display: inline;
+}
+
+.form_row {
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.form_col {
+	float: left;
+	height: 100%;
+}
+
+#form_col1 {
+	width: 15%;
+}
+
+.form_borderless {
+	border: none;
+}
+
+.form_inline {
+	display: inline;
+}
+
+.form_textbox {
+	width: 225px;
+	margin: 0 5px 5px 0;
+}
+
+.form_textbox_large {
+	width: 460px;
+	margin: 0 5px 5px 0;
+}
+
+.form_textbox_small {
+	width: 112px;
+	margin: 0 5px 5px 0;
+}
+
+.form_timebox {
+	width: 70px;
+	margin: 0 5px 5px 0;
+}
+
+.form_add_button {
+	float: left;
+	margin-left: 16px;
+}
+
+.form_move_super_button {
+	display: inline;
+	margin-right: 5px;
+}
+
+.form_remove_button {
+	display: none;
+}
+
+#form_name_title {
+	display: inline;
+	margin-left: 16px;
+	margin-right: 184px;
+}
+
+#form_company_title {
+	display: inline;
+	margin-right: 174px;
+}
+
+#form_name_edit_title {
+	display: inline;
+	margin-left: 16px;
+	margin-right: 188px;
+}
+
+#form_company_edit_title {
+	display: inline;
+	margin-right: 178px;
+}
+
+#form_mainheader {
+	resize: vertical;
+	min-height: 36px;
+	max-height: 500px;
+}
+
+.content_row {
+	min-height: 30px;
+	width: 1090px;
+	font-size: 14px;
+	display:flex;
+}
+
+.content_row p {
+	margin: 12px;
+}
+
+.content_row_header {
+	background-color: LightGray;
+}
+
+#content_row_main_header {
+	height: 40px;
+	text-align: center;
+	background-color: gray;
+}
+
+.content_col {
+	float: left;
+	width: 600px;
+	min-height: 10px;
+	word-wrap: break-word;
+	overflow: hidden;
+	margin-top: 4px;
+}
+
+.content_small_col {
+	width: 100px;
+	text-align: center;
+	margin-top: 8px;
+}
+
+#content_nr_header {
+	margin-top: 4px;
+}
+
+.content_supervisor_col {
+	width: 160px;
+	text-align: center;
+}
+
+.content_tools_col {
+	width: 230px;
+	margin: 0;
+	background-color: white;
+}
+
+.task_row {
+	margin-bottom: 6px;
+}
+
+.form_headerbox {
+	width: 99%;
+}
+
+.form_superbox {
+	width: 90%;
+	height: 21px;
+	margin-bottom: 6px;
+}
+
+.form_typebox {
+	width: 100px;
+	height: 21px;
+}
+
+.form_edit_box {
+	margin-top: 2px;
+}
+
+.form_task_add_button {
+	margin-left: 866px;
+	margin-top: 4px;
+}
+
+.form_task_remove_button {
+	display: none;
+	margin-top: 4px;
+	margin-left: 6px;
+}
+
+.form_supervisor_add_button {
+	margin-top: 4px;
+	margin-left: 6px;
+	margin-bottom: 2px;
+}
+
+#form_send_button_div {
+	width: 100%;
+	overflow: hidden;
+}
+
+#form_send_button {
+	float: left;
+	margin-right: 10px;
+}
+
+/* meeting_page */
+
+.meeting_row {
+	height: 40px;
+	width: 100%;
+	font-size: 14px;
+}
+
+.meeting_row p {
+	margin: 12px;
+	display: block;
+}
+
+.meeting_row_odd {
+	background-color: gray;
+}
+
+.meeting_column {
+	float: left;
+	height: 100%;
+	word-wrap: break-word;
+	overflow: hidden;
+}
+
+.meeting_small_column {
+	width: 6%;
+	min-width: 86px;
+	text-align: center;
+}
+
+.meeting_large_column {
+	width: 18%;
+}
+
+.meeting_number_column {
+	width: 3%;
+	min-width: 40px;
+}
+
+.meeting_tools_column {
+	float: right;
+}
+
+.meeting_tools_form {
+	float: left;
+	height: 100%;
+	text-align: center;
+	line-height: 40px;
+	vertical-align: middle;
+}
+
+/* meeting_page end */

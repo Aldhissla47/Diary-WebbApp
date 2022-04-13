@@ -1,0 +1,89 @@
+#form {
+	
+}
+
+#form h5 {
+	display: inline;
+}
+
+#form h3 {
+	margin: 0;
+}
+
+#form p {
+	color: red;
+	display: inline;
+}
+
+.form_row {
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.form_col {
+	float: left;
+	height: 100%;
+}
+
+.form_info {
+	background-color: #999999;
+}
+
+.form_borderless {
+	border: none;
+}
+
+.form_inline {
+	display: inline;
+}
+
+.form_textbox {
+	width: 125px;
+	margin: 0 5px 5px 0;
+}
+
+.form_day_title {
+	display: inline;
+	margin-left: 36px;
+}
+
+.form_work_title {
+	display: inline;
+	margin-left: 36px;
+	margin-right: 366px;
+}
+
+.form_work_title_show {
+	display: inline;
+	margin-left: 16px;
+	margin-right: 376px;
+}
+
+.form_day_textbox {
+	width: 40px;
+	text-align: center;
+}
+
+.form_work_textbox {
+	width: 500px;
+}
+
+.form_time_textbox {
+	width: 60px;
+	text-align: center;
+}
+
+.form_work_comment {
+	margin-left: 16px;
+}
+
+#form_send_button_div {
+	width: 100%;
+	overflow: hidden;
+}
+
+#form_send_button {
+	float: left;
+	margin-right: 10px;
+}

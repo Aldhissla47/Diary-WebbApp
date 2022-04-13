@@ -1,0 +1,145 @@
+#form {
+	
+}
+
+.red p {
+	color: red;
+}
+
+.form_row {
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.form_borderless {
+	border: none;
+}
+
+.form_inline {
+	display: inline;
+}
+
+.task_selector {
+	float: left;
+	width: 200px;
+	margin-top: 16px;
+	margin-left: 30px;
+}
+
+.selector_form {
+	display: inline;
+	margin-left: 10px;
+}
+
+.form_selector_box {
+	width: 120px;
+}
+
+#task_wrapper {
+	width: 100%;
+	padding: 10px;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.task_row {
+	height: 40px;
+	width: 100%;
+	min-width: 1418px;
+	font-size: 14px;
+}
+
+.task_row p {
+	margin: 12px;
+}
+
+.task_row_odd {
+	background-color: gray;
+}
+
+.task_column {
+	float: left;
+	height: 100%;
+	word-wrap: break-word;
+	overflow: hidden;
+	text-align: center;
+	margin-right: 4px;
+}
+
+.task_small_column {
+	width: 100px;
+}
+
+.task_number_column {
+	width: 60px;
+}
+
+.task_date_column {
+	width: 100px;
+}
+
+.task_large_column {
+	width: 16%;
+	min-width: 160px;
+}
+
+.task_private_column {
+	width: 60px;
+}
+
+#task_content {
+	max-height: 700px;
+	min-width: 1418px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.task_row_box {
+	width: 95%;
+	height: 16px;
+	margin-top: 10px;
+}
+
+.task_row_checkbox {
+	margin-top: 14px;
+}
+
+.task_row_box_large {
+	width: 97.5%;
+	height: 16px;
+	margin-top: 10px;
+}
+
+.task_row_dropbox {
+	height: 22px;
+}
+
+.task_row_datebox {
+	width: 94.5%;
+	height: 18px;
+}
+
+.form_add_button {
+	margin-top: 10px;
+	margin-left: 16px;
+}
+
+.form_remove_button {
+	float: right;
+	display: none;
+	margin: 10px;
+	margin-bottom: 9px;
+}
+
+#form_send_button_div {
+	width: 100%;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+#form_send_button {
+	float: left;
+	margin-right: 10px;
+}

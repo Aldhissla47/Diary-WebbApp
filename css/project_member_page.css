@@ -1,0 +1,30 @@
+.form_textbox {
+	width: 125px;
+	margin: 0 5px 5px 0;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+#form h5 {
+	display: inline;
+}
+
+#form p {
+	display: inline;
+	color: red;
+}
+
+#numbox1 {
+	width: 25px;
+}
+
+#numbox2 {
+	width: 55px;
+}
+
+#form_company_name {
+	width: 600px;
+	border: none;
+}

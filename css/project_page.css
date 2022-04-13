@@ -1,0 +1,77 @@
+.project_info {
+	margin-bottom: 20px;
+}
+
+.content_result_button:hover {
+	cursor: pointer;
+}
+
+.project_row {
+	height: 40px;
+	width: 100%;
+	font-size: 14px;
+}
+
+.project_row p {
+	margin: 12px;
+}
+
+.project_row_odd {
+	background-color: gray;
+}
+
+.project_column {
+	float: left;
+	height: 100%;
+	word-wrap: break-word;
+	overflow: hidden;
+}
+
+.project_small_column {
+	width: 6%;
+	min-width: 86px;
+	text-align: center;
+}
+
+.project_large_column {
+	width: 25%;
+}
+
+.project_number_column {
+	width: 3%;
+	min-width: 40px;
+}
+
+.project_member_column {
+	width: 17%;
+}
+
+.project_tools_column {
+	float: right;
+}
+
+.project_tools_form {
+	float: left;
+	height: 100%;
+	text-align: center;
+	line-height: 40px;
+	vertical-align: middle;
+}
+
+.project_diary_column {
+	width: 16%;
+}
+
+.project_consequence_header p {
+	margin: 4px 4px 4px 12px;
+}
+
+.project_abnorm_column {
+	width: 18%;
+}
+
+#form_monthly_year {
+	width: 60px;
+	margin-left: 10px;
+	margin-top: 16px;
+}

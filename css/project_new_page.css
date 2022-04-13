@@ -1,0 +1,17 @@
+.form_textbox {
+	width: 125px;
+	margin: 0 5px 5px 0;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+#project_form h5 {
+	display: inline;
+}
+
+#project_form p {
+	display: inline;
+	color: red;
+}
